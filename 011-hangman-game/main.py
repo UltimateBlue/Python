@@ -62,7 +62,7 @@ words = newTxt.split(" ")
 randomWord = choice(words)
 init(randomWord)
 # print(newTxt + '\n' + randomWord)
-print(randomWord)
+# print(randomWord)
 
 # while all the words are determined
 
